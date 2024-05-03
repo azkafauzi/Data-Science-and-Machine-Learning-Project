@@ -1,6 +1,6 @@
 # Correlational Analysis of Movie Data (1980 - 2020) 
 
-**Correlational Analysis of Movie Data** merupakan project yang memuat kumpulan data yang berfokus pada pendapatan film dan menganalisisnya selama beberapa dekade terakhir. Analisis ini bertujuan untuk mencari tau hubungan setiap atribut pada datasets seperti aktor, genre, peringkat pengguna, dan lainnya. Hasil dari analisa ini yaitu atribut mana yang memiliki korelasi terkuat diantara semua atribut. Hasil korelasi yang dihitung menggunakan Pearson correlation coefficient.
+**Correlational Analysis of Movie Data** merupakan project yang memuat kumpulan data yang berfokus pada pendapatan film dan menganalisisnya selama beberapa dekade terakhir. Tujuan utama analisis ini yaitu untuk mencari tahu atribut yang memiliki hubungan kuat dengan pendapatan, yang umumnya akan dicari tahu juga hubungan setiap atribut pada datasets seperti aktor, genre, peringkat pengguna, dll. Hasil dari analisa ini yaitu atribut mana yang memiliki korelasi terkuat diantara semua atribut. Hasil korelasi yang dihitung menggunakan Pearson correlation coefficient.
 
 
 Beberapa atribut yang terdapat pada dataset, diantaranya:
