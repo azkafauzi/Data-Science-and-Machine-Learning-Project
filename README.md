@@ -9,3 +9,7 @@ This repository contains a collection of data science and machine learning proje
 ## Projects
 
 [Correlational Analysis of Movie Data (1980-2020)](https://github.com/azkafauzi/Data-Science-and-Machine-Learning-Project/tree/768f455b71bfe6dab668fbb371ef49dcb4e3d759/Correlational%20Analysis%20of%20Movie%20Data%20(1980-2020))
+
+- **Description:** 
+- **Technologies Used:**
+- **Result:** 
