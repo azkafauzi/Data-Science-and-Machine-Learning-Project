@@ -10,6 +10,12 @@ This repository contains a collection of data science and machine learning proje
 
 [Correlational Analysis of Movie Data (1980-2020)](https://github.com/azkafauzi/Data-Science-and-Machine-Learning-Project/tree/768f455b71bfe6dab668fbb371ef49dcb4e3d759/Correlational%20Analysis%20of%20Movie%20Data%20(1980-2020))
 
-- **Description:** 
-- **Technologies Used:**
+- **Description:** This project analyzes the strength of the relationship of each attribute on a dataset of movies from 1980 - 2020.
+- **Technologies Used:** The notebook uses Pearson Correlation Coefficient (PCC)
+- **Result:** Budget and gross have a strong correlation of 0.74 and gross and votes have a moderately strong correlation of 0.61. Meanwhile, the data does not show any correlation between company and gross because company is a string not a numeric value so correlation cannot be done. This is also true for other string attributes.
+
+[Klasifikasi Diagnosis Tumor Ganas dan Tumor Jinak (Kanker Payudara)](https://github.com/azkafauzi/Data-Science-and-Machine-Learning-Project/tree/768f455b71bfe6dab668fbb371ef49dcb4e3d759/Klasifikasi%20Diagnosis%20Tumor%20Ganas%20dan%20Tumor%20Jinak%20(Kanker%20Payudara))
+
+- **Description:** This project 
+- **Technologies Used:** The notebook uses 
 - **Result:** 
