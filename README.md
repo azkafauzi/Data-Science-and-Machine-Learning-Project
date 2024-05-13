@@ -19,3 +19,9 @@ This repository contains a collection of data science and machine learning proje
 - **Description:** This project predicts the diagnosis of breast cancer, M (Mallignant) and B (Benign).
 - **Technologies Used:** The notebook uses SVM (Support Vector Machine) classification algorithm.
 - **Result:** The SVM model has the best performance with 96% accuracy.
+
+[Sonar, Mines vs Rocks](https://github.com/azkafauzi/Data-Science-and-Machine-Learning-Project/tree/768f455b71bfe6dab668fbb371ef49dcb4e3d759/Sonar%2C%20Mines%20vs.%20Rocks)
+
+- **Description:** This project aims to detect whether an underwater object is a rock or a mine, based on sonar signals.
+- **Technologies Used:** The notebook uses SVM, Naive Bayes - Gaussian and Random Forest Classifier.
+- **Result:** The best classification model was obtained by Random Forest with an accuracy of 97%.
