@@ -24,4 +24,4 @@ This repository contains a collection of data science and machine learning proje
 
 - **Description:** This project aims to detect whether an underwater object is a rock or a mine, based on sonar signals.
 - **Technologies Used:** The notebook uses SVM, Naive Bayes - Gaussian and Random Forest Classifier.
-- **Result:** The best classification model was obtained by Random Forest with an accuracy of 97%.
+- **Result:** The best classification model was obtained by Random Forest with an accuracy of 97%
